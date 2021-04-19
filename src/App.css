@@ -1,0 +1,60 @@
+
+header{
+  max-width: 1200px;
+  margin: 20px auto;
+  text-align: center;
+  background-color: rgb(80, 224, 224);
+  font-family:Helvetica;
+  font-size: 70px;
+}
+
+form{
+  
+  
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+ 
+}
+#username{
+  margin-right: 20px;
+}
+
+.tm-div{
+  border-radius: 15px;
+  border: 3px solid rgb(226, 60, 143);
+  height: 60px;
+  max-width: 800px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.renddiv{
+  padding: 20px;
+}
+table{
+  border-collapse: collapse;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+tr, th, td{
+  border: 1px solid black;
+}
+
+.tm-download{
+  border-radius: 15px;
+  border: 3px solid black;
+  height: 60px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tm-button{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+#dow{
+margin-left: 10px;
+}
